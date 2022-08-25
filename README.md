@@ -3,7 +3,7 @@
 ### Actions
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/tauseef-dev/tauseef-dev/assets/github-contribution-grid-snake.svg" />
+   <img src="https://github.com/tauseef-dev/tauseef-dev/blob/output/github-contribution-grid-tauseef-dev.svg" alt="snake">
 </div>
 
 <div align="center">
