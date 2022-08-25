@@ -1,5 +1,8 @@
 # Hello, Peeps! <img src="https://raw.githubusercontent.com/tauseef-dev/tauseef-dev/master/wave.gif" width="30px" height="30px" />
 
+# I am a 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&pause=500&width=435&lines=Software+Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Content+Creator+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;All+Time+Chillesh+)](https://git.io/typing-svg)
+
 ### ⚡ Tech Stack
 
 - #### 🚀 Languages
