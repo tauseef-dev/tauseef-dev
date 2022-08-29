@@ -19,9 +19,9 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
-  <img alt="Solidity" src="https://img.shields.io/badge/solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E" />
+  <img alt="Swift" src="https://img.shields.io/badge/swift-323330?style=for-the-badge&logo=swift&logoColor=F7DF1E" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-ED8B00?style=for-the-badge&logo=dart&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -41,12 +41,12 @@
 - #### 🧑🏻‍💻 Tools & Platform
 
 <p align="center">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-2F2F39?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-0D5D80?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
