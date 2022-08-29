@@ -1,9 +1,19 @@
 # Hello, Peeps! <img src="https://raw.githubusercontent.com/tauseef-dev/tauseef-dev/master/wave.gif" width="30px" height="30px" />
 
-# I am a 
+## I am a 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&pause=500&width=435&lines=Software+Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Content+Creator+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;All+Time+Chillesh+)](https://git.io/typing-svg)
 
-### ⚡ Tech Stack
+### I am passionate about building excellent software that improves the lives of those around me.
+
+### I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
+
+### I have done work in software development, mobile app creation, front-end/back-end web, database/server management and graphic design I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+### I am also passionate about the building Computer Systems.
+
+### When I'm not coding or building PCs, tweeting or pushing pixels, you'll find me cooking, gaming and making Podcasts and music.
+
+## ⚡ Tech Stack
 
 - #### 🚀 Languages
 
